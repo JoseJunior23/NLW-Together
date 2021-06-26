@@ -1,4 +1,9 @@
-
+<p align="center">
+<img width="500" src="assets/images/giphy.gif">
+</p>
+<p align="center">
+<img width="500" src="assets/images/logo.svg">
+</p>
 > status: 🚧 Em desenvolvimento ⚠️ 
 
 #### App desenvolvido com parte do aprendizagem de React, durante a nlw Together  da rocketseat
