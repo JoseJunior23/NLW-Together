@@ -1,12 +1,7 @@
-<p align="center">
-<img width="500" src="assets/images/giphy.gif">
-</p>
-<p align="center">
-<img width="500" src="assets/images/logo.svg">
-</p>
+![Preview da aplicação](https://media.giphy.com/media/4Le8W0EPqcA09aQkev/giphy.gif)
 > status: 🚧 Em desenvolvimento ⚠️ 
 
-#### App desenvolvido com parte do aprendizagem de React, durante a nlw Together  da rocketseat
+ #### App desenvolvido com parte do aprendizagem de React, durante a nlw Together  da rocketseat
 ---
 ##  ▶️ Disponivel em:  ➡️ https://letmeask-49971.web.app
 ---
